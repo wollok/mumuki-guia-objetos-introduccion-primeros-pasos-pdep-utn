@@ -3,7 +3,7 @@ Entonces, como vimos, en un mundo de objetos, todo lo que tenemos son objetos y 
 * mensajes de palabra clave: su nombre es una palabra, se envía mediante un punto y llevan paréntesis al final:
   * pueden no tomar argumentos, como `rayuela.autor()`
   * o pueden tomar uno o más argumentos, separados por coma: `sanMartin.cruzar(losAndes, caballo)`
-* comunmente llamados operadores: son generalmente simboos matemáticos o caracteres especiales, y su sintaxis se asemeja al uso corriente que se hace de ellos.
+* comunmente llamados operadores: son generalmente símbolos matemáticos o caracteres especiales, y su sintaxis se asemeja al uso corriente que se hace de ellos.
   * mensajes que no toman argumentos, como la negación `!true`
   * mensajes que toman un argumento, como `orson == gardfield` o `2 + 2`
 
